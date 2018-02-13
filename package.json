@@ -1,0 +1,29 @@
+{
+  "name": "react-shopping-cart-and-payment-processor",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "immutable": "^3.8.1",
+    "laravel-elixir": "^2.0.0",
+    "money-math": "^2.4.2",
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.5",
+    "react-dom": "^15.1.0"
+    "bootstrap": "^4.0.0-beta.2",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "money-math": "^2.5.1",
+    "riek": "^1.1.0"
+  }
+}
